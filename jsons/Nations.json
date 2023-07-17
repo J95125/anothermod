@@ -21,8 +21,9 @@
 
 		"outerColor": [0,135,18],
 		"innerColor": [255,255,255],
-		"unique": "el ke se sale es gei",
-		"cities": ["Wazzzzaaaaa","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"uniques" : ["[+3] population in a random city after researching [civil service]","Double quantity of [food] produced","[+5] production of every [Farm]"],
+		"uniqueName": "el ke se sale es gei",
+		"cities": ["Wazzzzaaaaa","Kappa","Ekisde","xd","marioquieretuaifon","cretaporkezi","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
