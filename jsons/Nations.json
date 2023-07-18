@@ -1,28 +1,28 @@
 [
 	{
 		"name": "The Stelarate",
-		"leaderName": "~_Isabella Valentina_~",
-		"adjective": ["miembro"],
+		"leaderName": "J99 the third",
+		"adjective": ["stelar"],
 		"startBias": ["Hill"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Scientific",
 
 		
 		
-		"declaringWar": "sos bobo",
-		"attacked": "ke raios",
-		"defeated": "noooo el grupito :(",
-		"introduction": "metan genteeee (el que se sale es gei)",
+		"declaringWar": "By the will of the stars,i must destroy you",
+		"attacked": "We accept your dishonourable challenge",
+		"defeated": "I hope my nation will be always remembered as the one who reached the stars",
+		"introduction": "Welcome foreigner, i am J99, lord of the Stelarate, who are you?",
 		
-		"neutralHello": "hola buenas",
-		"hateHello": "vos kien sos",
+		"neutralHello": "Welcome to my palace",
+		"hateHello": "I was waiting for you",
 		
 		
-		"tradeRequest": "ohla como le va",
+		"tradeRequest": "This offer is one in a lifetime, my friend",
 
 		"outerColor": [0,135,18],
 		"innerColor": [255,255,255],
 		"nationIcon": "noun-star-3625490",
-		"uniques" : ["[+3] population in a random city after researching [civil service]","Double quantity of [food] produced","[+5] production of every [Farm]"],
+		"uniques" : ["[+3 faith] of every [plantation]","[+5 science] of every,
 		"uniqueName": "el ke se sale es gei",
 		"cities": ["Wazzzzaaaaa","Kappa","Ekisde","xd","marioquieretuaifon","cretaporkezi","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
