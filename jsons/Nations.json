@@ -1,3 +1,4 @@
+
 [
 	{
 		"name": "The Stelarate",
@@ -22,10 +23,10 @@
 		"outerColor": [0,135,18],
 		"innerColor": [255,255,255],
 		"nationIcon": "noun-star-3625490",
-		"uniques" : ["[+3 faith] of every [plantation]","[+5 science] of every,
-		"uniqueName": "el ke se sale es gei",
-		"cities": ["Wazzzzaaaaa","Kappa","Ekisde","xd","marioquieretuaifon","cretaporkezi","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"uniques" : ["[+2 faith,+3 science ] of every [plantation, farm, camp,] after researching [astronomy]"],
+		"uniqueName": "Per Aspera Ad Astra",
+		"cities": ["Astripolis","Gemina","Piscia","Libra","Oriona","Aquar","Sagitarum","Neominae","Leonia",
+			"Athina Nova","Iknatylia","Virgor","Tauris","Vounopolis","Sonora","Noxia","iwillbeaddingcitiesinthefuture","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
