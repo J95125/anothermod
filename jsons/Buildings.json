@@ -5,7 +5,7 @@
 		"uniqueTo": "The Stelarate",
 		"cost": 200,
 		"happiness": 5,
-		"culture": 3,
+		"culture": 4,
 		"science": 7,
 	"maintenance": 2,
 		"isNationalWonder": false,
