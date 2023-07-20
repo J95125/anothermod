@@ -22,7 +22,7 @@
 
 		"outerColor": [0,135,18],
 		"innerColor": [255,255,255],
-		"nationIcon": "noun-star-3625490",
+
 		"uniques" : ["[+2 faith,+3 science ] of every [plantation, farm, camp,] after researching [astronomy]"],
 		"uniqueName": "Per Aspera Ad Astra",
 		"cities": ["Astripolis","Gemina","Piscia","Libra","Oriona","Aquar","Sagitarum","Neominae","Leonia",
