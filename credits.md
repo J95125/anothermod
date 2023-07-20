@@ -4,7 +4,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * [raygun] (https://thenounproject.com/term/raygun/11236/) by Dominik Grob
 * [vr] (https://thenounproject.com/term/vr/2334639) by Mahmure Alp
 * [Human cloning ] (https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay
-* [Crown Icon] (https://thenounproject.com/icon/crown-3625490/) by Denicon
+* [Star] (https://thenounproject.com/icon/star-5881193/) by Zach Bogart 
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
